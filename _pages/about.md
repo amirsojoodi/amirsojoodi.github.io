@@ -17,6 +17,7 @@ redirect_from:
 
 ## News
 
+- 2025-11: Participated as the moderator in the panel discussion at Global Education Week at Queen's University.
 - 2025-09: Our work is accepted in [ExaMPI 2025](https://sites.google.com/site/workshopexampi/home) workshop at [SC25](https://sc25.supercomputing.org/)!
 - 2025-06: Presented our work in [AsHES](https://www.ashes-hpc.org/2025/) workshop at [IPDPS 2025](https://www.ipdps.org/ipdps2025/).
 - 2025-01: Served in [QHacks 2025](https://www.linkedin.com/company/qhacks/) as a judge. It was a very nostalgic event for me. (Missing BTIU)

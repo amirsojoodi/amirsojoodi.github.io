@@ -23,6 +23,8 @@ author_profile: true
 
 ## Miscs (Panels, Podcasts, etc.)
 
+- 2025-11-19: As the panel moderator at [Global Education Conference](https://www.queensu.ca/conferences/globaleducation/) at Queen's University, in the panel: "Student Voices: Talking Our Way to Academic Success At Queen's".
+
 - 2023-11-09: As one of the panelists at [Global Education Conference](https://www.queensu.ca/conferences/globaleducation/) at Queen's University, Invitation not assimilation: Inclusive listening to expand academic spaces and connect to global knowledges.
 
 - 2022 Fall: As the sound editor of [International Voices at Queen's (IV@Q)](https://podcast.cfrc.ca/international-voices-at-queens/) Podcast, season 2.
