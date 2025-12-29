@@ -243,3 +243,13 @@
     }
   }
 }
+
+.list__item .page__meta,
+.grid__item .page__meta {
+  .fa-clock-o {
+    color: #98c379;
+  }
+  .read-time {
+    color: #d19a66;
+  }
+}

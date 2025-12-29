@@ -48,24 +48,43 @@ $type-size-9                : 0.9em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$background-color: #282c34;
+$text-color: #abb2bf;
+$primary-color: #61afef;
+$link-color: #61afef;
+$link-color-hover: #56b6c2;
+$link-color-visited: #c678dd;
+$code-background-color: #21252b;
+$code-background-color-dark: #21252b;
+$border-color: #3e4451;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color : $background-color;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+/* syntax highlighting */
+$syntax-highlighting-background-color: $code-background-color;
+$syntax-base00: #282c34; // background
+$syntax-base01: #353b45; // gutter
+$syntax-base02: #3e4451; // selection
+$syntax-base03: #5c6370; // comments
+$syntax-base04: #abb2bf; // foreground
+$syntax-base05: #e06c75; // red
+$syntax-base06: #98c379; // green
+$syntax-base07: #e5c07b; // yellow
+$syntax-base08: #61afef; // blue
+$syntax-base09: #c678dd; // magenta
+$syntax-base0a: #56b6c2; // cyan
+$syntax-base0b: #d19a66; // orange
+
+$gray                       : #5c6370;
+$dark-gray                  : #3e4451;
+$darker-gray                : #282c34;
+$light-gray                 : #abb2bf;
+$lighter-gray               : #b2c2cd;
+
+$success-color              : #98c379;
+$warning-color              : #e5c07b;
+$danger-color               : #e06c75;
+$info-color                 : #61afef;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -95,7 +114,7 @@ $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color-hover  : $light-gray;
 
 
 /*
