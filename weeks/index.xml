@@ -4,7 +4,7 @@
     <title>My Life in Weeks</title>
     <link>/weeks/</link>
     <description>Recent content on My Life in Weeks</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <atom:link href="/weeks/index.xml" rel="self" type="application/rss+xml" />
   </channel>
