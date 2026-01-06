@@ -43,6 +43,10 @@
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
 
+  a {
+    font-weight: normal; // Override bold inherited from H3
+  }
+
   a + a {
     opacity: 0.5;
   }
@@ -247,9 +251,16 @@
 .list__item .page__meta,
 .grid__item .page__meta {
   .fa-clock-o {
-    color: #98c379;
+    color: #ca813c;
   }
   .read-time {
     color: #d19a66;
+  }
+}
+
+.page__date {
+  color: #98c379;
+  .fa-calendar {
+    color: #98c379;
   }
 }

@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 15;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -48,14 +48,14 @@ $type-size-9                : 0.9em;  // ~10px
    Colors
    ========================================================================== */
 
-$background-color: #282c34;
-$text-color: #abb2bf;
-$primary-color: #61afef;
-$link-color: #61afef;
+$background-color: #1c1f24;
+$text-color: #b8bec9;
+$primary-color: #5b8d37;
+$link-color: #85ad69;
 $link-color-hover: #56b6c2;
 $link-color-visited: #c678dd;
-$code-background-color: #21252b;
-$code-background-color-dark: #21252b;
+$code-background-color: #171a1f;
+$code-background-color-dark: #14161a;
 $border-color: #3e4451;
 
 $body-color : $background-color;
@@ -68,7 +68,7 @@ $syntax-base02: #3e4451; // selection
 $syntax-base03: #5c6370; // comments
 $syntax-base04: #abb2bf; // foreground
 $syntax-base05: #e06c75; // red
-$syntax-base06: #98c379; // green
+$syntax-base06: #599e28; // green
 $syntax-base07: #e5c07b; // yellow
 $syntax-base08: #61afef; // blue
 $syntax-base09: #c678dd; // magenta
@@ -84,7 +84,7 @@ $lighter-gray               : #b2c2cd;
 $success-color              : #98c379;
 $warning-color              : #e5c07b;
 $danger-color               : #e06c75;
-$info-color                 : #61afef;
+$info-color                 : #1c83d6;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -110,7 +110,7 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
+// $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
