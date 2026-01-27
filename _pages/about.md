@@ -17,7 +17,7 @@ redirect_from:
 
 ## News
 
-- 2026-01: Joined AMD as a full-time Member of Technical Staff in the GPU Communications team!
+- 2026-01: Joined AMD as Member of Technical Staff in the GPU Communications team!
 - 2026-01: Finally defended my PhD!! 🎉
 - 2025-11: Participated as the moderator in the panel discussion at Global Education Week at Queen's University.
 - 2025-09: Our work is accepted in [ExaMPI 2025](https://sites.google.com/site/workshopexampi/home) workshop at [SC25](https://sc25.supercomputing.org/)!
