@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-- Presently, a PhD student at Queen's University, Kingston, Ontario, Canada.
-- As a researcher, interested in parallel algorithm design, middleware performance optimization, and application acceleration. Focused on improving GPU-aware communication in OpenMPI and UCX/UCC libraries to enhance the performance of HPC and Deep Learning frameworks.
-- As an instructor, with 25+ courses TA'ed and taught, skilled in course design, development, and delivery, with a strong commitment to student success.
-- As a software engineer, experienced in parallel-processing platforms/tools and programming frameworks, including CUDA, OpenMP, MPI, Pthreads, etc.
-- Enthusiastic to work as a scholar, and eager to combine my passion for education with my expertise in computer science.
+- PhD in Computer Science from Queen’s University with a focus on high-performance computing, GPU communication, and parallel systems.
+- Currently a Member of Technical Staff at AMD, working on the GPU Communication Team and contributing to ROCSHMEM.
+- My work centers on GPU-aware communication and middleware optimization for scalable HPC and AI workloads, with prior research experience in OpenMPI and UCX/UCC. I have hands-on experience with CUDA, MPI, OpenMP, Pthreads, Networks, WebGPU, and distributed GPU programming.
+- I enjoy working at the intersection of systems research and engineering, as well as teaching and mentoring.
+<!-- - For coaching and mentoring opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amirsojoodi/) or email me at amir[dot]sojoodi[at]queensu[dot]ca. -->
 - My Resume can be obtained from [here](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-Resume.pdf), and my academic CV is available [there](https://amirsojoodi.github.io/files/AmirHosseinSojoodi-CV.pdf).
 
 ## News
 
+- 2026-01: Joined AMD as a full-time Member of Technical Staff in the GPU Communications team!
+- 2026-01: Finally defended my PhD!! 🎉
 - 2025-11: Participated as the moderator in the panel discussion at Global Education Week at Queen's University.
 - 2025-09: Our work is accepted in [ExaMPI 2025](https://sites.google.com/site/workshopexampi/home) workshop at [SC25](https://sc25.supercomputing.org/)!
 - 2025-06: Presented our work in [AsHES](https://www.ashes-hpc.org/2025/) workshop at [IPDPS 2025](https://www.ipdps.org/ipdps2025/).
